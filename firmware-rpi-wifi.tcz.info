@@ -4,7 +4,7 @@ Version:        7.45.98.38
 Author:         Cypress
 Original-site:  https://github.com/RPi-Distro/firmware-nonfree/tree/master
 Copying-policy: See LICENCE.broadcom_bcm43xx
-Size:           656k
+Size:           988k
 Extension_by:   paul-123
 Tags:           FIRMWARE RPI4 RPI3 RPI0W WIFI WIRELESS
 Comments:       Binaries only
@@ -20,4 +20,7 @@ Change-log:     2016/06/28 First version 7.45.41.26
                 2018/01/24 version 7.45.98.38 (r674442 CY) FWID 01-e58d219f
                 2018/03/17 Add RPi3B+ Firmware brcm43455 version: 7.45.154
                 2018/08/19 Add NVRAM parameters for BT COEXIST
-Current:        2019/07/01 Update brcm43455 firmware for RPi4, v7.45.154
+                2019/07/01 Update brcm43455 firmware for RPi4, v7.45.154
+                2020/11/29 Update brcm43455 clm_blob for 80mhz channels
+                2020/11/29 Add Firmware for BCM43456 - RPI400
+Current:        2021/01/25 Update firmware for BCM43455
