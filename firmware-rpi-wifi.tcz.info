@@ -1,12 +1,12 @@
 Title:          firmware-rpi-wifi.tcz
 Description:    Firmware for RPi onboard WiFi adapter
-Version:        7.45.98.38
+Version:        Commit dc40665
 Author:         Cypress
-Original-site:  https://github.com/RPi-Distro/firmware-nonfree/tree/master
-Copying-policy: See LICENCE.broadcom_bcm43xx
-Size:           988k
+Original-site:  https://github.com/RPi-Distro/firmware-nonfree
+Copying-policy: See LICENCE
+Size:           1.5M
 Extension_by:   paul-123
-Tags:           FIRMWARE RPI4 RPI3 RPI0W WIFI WIRELESS
+Tags:           FIRMWARE RPI4 RPI3 RPI0W RPI02 WIFI WIRELESS
 Comments:       Binaries only
                 ----
                 Packed for piCore 10.x / RPi3 and RPi0W
@@ -23,4 +23,7 @@ Change-log:     2016/06/28 First version 7.45.41.26
                 2019/07/01 Update brcm43455 firmware for RPi4, v7.45.154
                 2020/11/29 Update brcm43455 clm_blob for 80mhz channels
                 2020/11/29 Add Firmware for BCM43456 - RPI400
-Current:        2021/01/25 Update firmware for BCM43455
+                2021/01/25 Update firmware for BCM43455
+                2021/10/30 Add firmware for BCM43436(s)
+Current:        2021/11/23 Add 43438 Cypress firmware 7.45.98.118
+                           Add 43455 Cypress firmware 7.45.241
