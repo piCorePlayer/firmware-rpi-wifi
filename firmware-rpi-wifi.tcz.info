@@ -25,5 +25,7 @@ Change-log:     2016/06/28 First version 7.45.41.26
                 2020/11/29 Add Firmware for BCM43456 - RPI400
                 2021/01/25 Update firmware for BCM43455
                 2021/10/30 Add firmware for BCM43436(s)
-Current:        2021/11/23 Add 43438 Cypress firmware 7.45.98.118
+                2021/11/23 Add 43438 Cypress firmware 7.45.98.118
                            Add 43455 Cypress firmware 7.45.241
+Current:        2022/04/15 Update SYN43436P top version 9.88.4.77 CRC: 143f9f15
+                           Resolve 4way handshake unloading
