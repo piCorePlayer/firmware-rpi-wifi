@@ -1,10 +1,10 @@
 Title:          firmware-rpi-wifi.tcz
 Description:    Firmware for RPi onboard WiFi adapter
-Version:        Commit dc40665
+Version:        Various
 Author:         Cypress
 Original-site:  https://github.com/RPi-Distro/firmware-nonfree
 Copying-policy: See LICENCE
-Size:           1.5M
+Size:           1.9M
 Extension_by:   paul-123
 Tags:           FIRMWARE RPI4 RPI3 RPI0W RPI02 WIFI WIRELESS
 Comments:       Binaries only
@@ -27,5 +27,8 @@ Change-log:     2016/06/28 First version 7.45.41.26
                 2021/10/30 Add firmware for BCM43436(s)
                 2021/11/23 Add 43438 Cypress firmware 7.45.98.118
                            Add 43455 Cypress firmware 7.45.241
-Current:        2022/04/15 Update SYN43436P top version 9.88.4.77 CRC: 143f9f15
+                2022/04/15 Update SYN43436P top version 9.88.4.77 CRC: 143f9f15
                            Resolve 4way handshake unloading
+                2022/05/07 Update License Files and 43436f (Full) firmware.
+Current:        2022/10/01 Update brcm43436 Firmware
+                           Update copywrites per latest raspiOS package
