@@ -33,4 +33,5 @@ Change-log:     2016/06/28 First version 7.45.41.26
                 2022/10/01 Update brcm43436 Firmware
                            Update copywrites per latest raspiOS package
                 2023/05/06 Update to include board names per rpi package
-Current:        2023/06/20 Update Zero 2 W wifi firmware (7.45.96.s1) and create links.
+                2023/06/20 Update Zero 2 W wifi firmware (7.45.96.s1) and create links.
+Current:        2023/08/11 Add missing compute module 4 firmware links.
