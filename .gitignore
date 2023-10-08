@@ -2,3 +2,6 @@ firmware-rpi-wifi.tcz
 firmware-rpi-wifi.tcz.list
 firmware-rpi-wifi.tcz.md5.txt
 last/*
+firmware-nonfree
+firmware-brcm*
+raspi*
